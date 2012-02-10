@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-	$('nav#subnavigation ul').addClass('nav-pills nav-stacked');
+	// $('nav#subnavigation ul').addClass('nav-pills nav-stacked');
 	
 	// Disable certain links in docs
 	$('section [href^=#]').click(function (e)
