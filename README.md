@@ -19,40 +19,40 @@ If you don't want the modified Fork CMS version this can be accomplished via Jav
 
 ##### Home
 
-![](screenshots/home.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/home.png)
 
 ##### Blog
 
 Overview
 
-![](screenshots/blog.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/blog.png)
 
 Detail
 
-![](screenshots/blog-detail.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/blog-detail.png)
 
 Form
 
-![](screenshots/blog-detail-form.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/blog-detail-form.png)
 
 
 ##### Submenu
 
-![](screenshots/submenu.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/submenu.png)
 
 
 ##### Contact
 
-![](screenshots/contact.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/contact.png)
 
 Errors
 
-![](screenshots/errors.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/errors.png)
 
 ##### Responsive
 
-![](screenshots/home-responsive.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/home-responsive.png)
 
 Navigation
 
-![](screenshots/responsive-navigation.png)
+![](https://github.com/freshface/Bootstrap-theme/blob/master/screenshots/responsive-navigation.png)
