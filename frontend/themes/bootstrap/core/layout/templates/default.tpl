@@ -32,7 +32,7 @@
 			<div class="span4">
 				
 				{* Subnavigation *}
-				<nav>
+				<nav id="subnavigation">
 					{$var|getsubnavigation:'page':{$page.id}:2:null:null:'subnavigation.tpl'}
 				</nav>
 				
