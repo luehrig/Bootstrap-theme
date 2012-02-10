@@ -19,40 +19,40 @@ If you don't want the modified Fork CMS version this can be accomplished via Jav
 
 ##### Home
 
-![](/screenshots/home.png)
+![](screenshots/home.png)
 
 ##### Blog
 
 Overview
 
-![](/screenshots/blog.png)
+![](screenshots/blog.png)
 
 Detail
 
-![](/screenshots/blog-detail.png)
+![](screenshots/blog-detail.png)
 
 Form
 
-![](/screenshots/blog-detail-form.png)
+![](screenshots/blog-detail-form.png)
 
 
 ##### Submenu
 
-![](/screenshots/submenu.png)
+![](screenshots/submenu.png)
 
 
 ##### Contact
 
-![](/screenshots/contact.png)
+![](screenshots/contact.png)
 
 Errors
 
-![](/screenshots/errors.png)
+![](screenshots/errors.png)
 
 ##### Responsive
 
-![](/screenshots/home-responsive.png)
+![](screenshots/home-responsive.png)
 
 Navigation
 
-![](/screenshots/responsive-navigation.png)
+![](screenshots/responsive-navigation.png)
