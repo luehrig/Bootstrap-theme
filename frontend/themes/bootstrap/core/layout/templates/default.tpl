@@ -75,7 +75,7 @@
 
 	{* Theme specific Javascript *}
 	<script src="{$THEME_URL}/core/js/bootstrap.min.js"></script>
-	<script src="{$THEME_URL}/core/js/twitter.js"></script>
+	<script src="{$THEME_URL}/core/js/theme.js"></script>
 
 	{* Site wide HTML *}
 	{$siteHTMLFooter}
