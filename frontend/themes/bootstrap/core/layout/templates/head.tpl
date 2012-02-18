@@ -24,7 +24,6 @@
 	{/iteration:cssFiles}
 	<link rel="stylesheet" href="{$THEME_URL}/core/layout/css/custom.css" />
 	<link rel="stylesheet" href="{$THEME_URL}/core/layout/css/bootstrap-responsive.css" />
-	
 
 	{* HTML5 Javascript *}
 	<!--[if lt IE 9]> <script src="{$THEME_URL}/core/js/html5.js"></script> <![endif]-->
