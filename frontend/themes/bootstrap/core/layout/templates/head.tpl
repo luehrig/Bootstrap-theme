@@ -10,6 +10,7 @@
 	<meta name="generator" content="Fork CMS" />
 	{$meta}
 	{$metaCustom}
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 
 	<title>{$pageTitle}</title>
 
