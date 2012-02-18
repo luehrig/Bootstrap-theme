@@ -1,2 +1,4 @@
 /* Import Bootstrap */
 @import url("bootstrap.css");
+/* Import Custom */
+@import url("custom.css");
