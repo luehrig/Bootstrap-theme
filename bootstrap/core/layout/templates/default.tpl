@@ -33,7 +33,7 @@
 				
 				{* Subnavigation *}
 				<nav id="subnavigation">
-					{$var|getsubnavigation:'page':{$page.id}:2:null:null:'subnavigation.tpl'}
+					{$var|getsubnavigation:'page':{$page.id}:2:null:null:'/core/layout/templates/subnavigation.tpl'}
 				</nav>
 				
 				{* Left *}
